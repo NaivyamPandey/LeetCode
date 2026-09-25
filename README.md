@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
