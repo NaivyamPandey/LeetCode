@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/NaivyamPandey/LeetCode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/NaivyamPandey/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
