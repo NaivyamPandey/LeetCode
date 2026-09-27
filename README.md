@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
