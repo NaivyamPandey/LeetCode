@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/NaivyamPandey/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/NaivyamPandey/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/NaivyamPandey/LeetCode/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
