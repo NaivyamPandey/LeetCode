@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NaivyamPandey/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1688-count-of-matches-in-tournament](https://github.com/NaivyamPandey/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/NaivyamPandey/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
 | ------- |
