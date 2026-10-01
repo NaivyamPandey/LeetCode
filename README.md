@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NaivyamPandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
