@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NaivyamPandey/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/NaivyamPandey/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NaivyamPandey/LeetCode/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NaivyamPandey/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/NaivyamPandey/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NaivyamPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
