@@ -28,3 +28,10 @@ class Solution {
         return -1;
     }
 }
+
+// 1. Find middle.
+// 2. Is it the target? → Done.
+// 3. Which half is sorted?
+// 4. Is target inside that sorted half?
+//    YES → search there.
+//    NO  → search the other half.
