@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/NaivyamPandey/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/NaivyamPandey/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/NaivyamPandey/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/NaivyamPandey/LeetCode/tree/master/0704-binary-search) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NaivyamPandey/LeetCode/tree/master/0075-sort-colors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NaivyamPandey/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
