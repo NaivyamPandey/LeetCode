@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/NaivyamPandey/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NaivyamPandey/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/NaivyamPandey/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NaivyamPandey/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
