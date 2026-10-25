@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/NaivyamPandey/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
