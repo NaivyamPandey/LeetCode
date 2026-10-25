@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NaivyamPandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/NaivyamPandey/LeetCode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaivyamPandey/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/NaivyamPandey/LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
