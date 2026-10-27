@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/NaivyamPandey/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaivyamPandey/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3838-weighted-word-mapping](https://github.com/NaivyamPandey/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/NaivyamPandey/LeetCode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/NaivyamPandey/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/NaivyamPandey/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
