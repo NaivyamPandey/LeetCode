@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NaivyamPandey/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/NaivyamPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NaivyamPandey/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NaivyamPandey/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NaivyamPandey/LeetCode/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/NaivyamPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/NaivyamPandey/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/NaivyamPandey/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/NaivyamPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
