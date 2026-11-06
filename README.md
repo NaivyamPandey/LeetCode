@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/NaivyamPandey/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/NaivyamPandey/LeetCode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/NaivyamPandey/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/NaivyamPandey/LeetCode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/NaivyamPandey/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NaivyamPandey/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NaivyamPandey/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
