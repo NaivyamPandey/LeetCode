@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/NaivyamPandey/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NaivyamPandey/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/NaivyamPandey/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
