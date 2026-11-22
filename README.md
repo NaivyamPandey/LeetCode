@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NaivyamPandey/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/NaivyamPandey/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/NaivyamPandey/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaivyamPandey/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NaivyamPandey/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NaivyamPandey/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/NaivyamPandey/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaivyamPandey/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NaivyamPandey/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NaivyamPandey/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NaivyamPandey/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
