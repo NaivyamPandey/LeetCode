@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaivyamPandey/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/NaivyamPandey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/NaivyamPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/NaivyamPandey/LeetCode/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/NaivyamPandey/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/NaivyamPandey/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
