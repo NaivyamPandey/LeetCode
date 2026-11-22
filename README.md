@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NaivyamPandey/LeetCode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NaivyamPandey/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/NaivyamPandey/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/NaivyamPandey/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaivyamPandey/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NaivyamPandey/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
