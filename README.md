@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NaivyamPandey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaivyamPandey/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NaivyamPandey/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3838-weighted-word-mapping](https://github.com/NaivyamPandey/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
