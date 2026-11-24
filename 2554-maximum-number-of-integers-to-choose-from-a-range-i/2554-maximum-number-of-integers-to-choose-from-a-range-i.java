@@ -22,7 +22,6 @@ class Solution {
         int count = 0, sum = 0;
 
         for(int i = 1; i <= n && sum < maxSum; i++){
-            System.out.print(binarySearch(i, banned) + " ");
             if(!binarySearch(i, banned)){
                 sum += i;
                 count++;
