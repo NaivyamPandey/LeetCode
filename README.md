@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaivyamPandey/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/NaivyamPandey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaivyamPandey/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaivyamPandey/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Bit Manipulation
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaivyamPandey/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3731-find-missing-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NaivyamPandey/LeetCode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Quicksort
 |  |
 | ------- |
