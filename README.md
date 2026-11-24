@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NaivyamPandey/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1748-sum-of-unique-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaivyamPandey/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaivyamPandey/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NaivyamPandey/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NaivyamPandey/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0973-k-closest-points-to-origin](https://github.com/NaivyamPandey/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NaivyamPandey/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NaivyamPandey/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NaivyamPandey/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/NaivyamPandey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/NaivyamPandey/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
