@@ -1,34 +1,22 @@
 class Solution {
 
-    public boolean binarySearch(int key, int[] nums){
-        int left = 0, right = nums.length - 1;
-        while(left <= right){
-            int mid = left + (right - left) / 2;
-            if(key == nums[mid]){
-                return true;
-            }
-            else if(key < nums[mid]){
-                right = mid - 1;
-            }
-            else{
-                left = mid + 1;
-            }
-        }
-        return false;
-    }
-
     public int maxCount(int[] banned, int n, int maxSum) {
-        Arrays.sort(banned);
+        
+        Set<Integer> set = new HashSet<>();
         int count = 0, sum = 0;
 
+        for(int i = 0; i < banned.length; i++){
+            set.add(banned[i]);
+        }
+
         for(int i = 1; i <= n && sum < maxSum; i++){
-            if(!binarySearch(i, banned)){
+            if(!set.contains(i)){
                 sum += i;
                 count++;
             }
         }
 
-        if(sum > maxSum) return --count;
+        if(sum > maxSum) count--;
 
         return count;
     }
