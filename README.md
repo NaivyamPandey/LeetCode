@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NaivyamPandey/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/NaivyamPandey/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/NaivyamPandey/LeetCode/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/NaivyamPandey/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NaivyamPandey/LeetCode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/NaivyamPandey/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/NaivyamPandey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NaivyamPandey/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/NaivyamPandey/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/NaivyamPandey/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/NaivyamPandey/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0763-partition-labels](https://github.com/NaivyamPandey/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NaivyamPandey/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NaivyamPandey/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/NaivyamPandey/LeetCode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/NaivyamPandey/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/NaivyamPandey/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NaivyamPandey/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/NaivyamPandey/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NaivyamPandey/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
